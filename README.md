@@ -21,7 +21,7 @@ The data is the CIFAR10 dataset from Keras.
 - This is where the report and plot will be saved
 
 "utils" FOLDER:
-- This folder should include all utility scrips used by the main script.
+- This folder should include all utility scripts used by the main script.
 
 ## ------ RESULTS ------
-As we can see in the classification report and model plot, the test and training scores are roughly following eachother, yet still up being a subpar model. This means that it is not suffering from over or underfitting, but that it is still bad at realiably predicting the correct scores. 
+As we can see in the classification report and model plot, the test and training scores are roughly following each other, yet still being a subpar model. This means that it is not suffering from over or underfitting, but that it is still bad at reliably predicting the correct scores. 

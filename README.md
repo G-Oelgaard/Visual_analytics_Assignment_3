@@ -1,4 +1,5 @@
 # Visual_analytics_Assignment_3
+## ------ SCRIPT DESCRIPTION ------
 This repository contains a script that will create a classifier using VGG16 and the CIFAR10 dataset.
 
 The model will:
@@ -21,3 +22,6 @@ The data is the CIFAR10 dataset from Keras.
 
 "utils" FOLDER:
 - This folder should include all utility scrips used by the main script.
+
+## ------ RESULTS ------
+As we can see in the classification report and model plot, the test and training scores are roughly following eachother, yet still up being a subpar model. This means that it is not suffering from over or underfitting, but that it is still bad at realiably predicting the correct scores. 
